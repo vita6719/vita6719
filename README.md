@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elena
-- 👀 My site https://sites.google.com/view/knowpython/contact
+- 👀 My first  bot https://t.me/NowholidayBot?start=_tgr_u3aFVBhmNDFi
 - 🌱 I’m  study with gptchat 🤓
 - 💞️ I’m looking ...
 - 📫 How to reach me ⬆️ 👀
