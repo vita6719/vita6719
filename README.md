@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Elena
 - 
+- https://freelance.ru/elenasobole
 - 
 - ⚡ Fun fact:developer pyodide - python developer
 
