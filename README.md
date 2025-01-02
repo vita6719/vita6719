@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Elena
 - 
-- 🌱 I’m  study with gptchat 🤓
-- 💞️ I’m looking ...
-- 📫 How to reach me ⬆️ 👀
-  
+- 
 - ⚡ Fun fact:developer pyodide - python developer
 
 <!---
